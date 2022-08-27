@@ -7,5 +7,5 @@ Steps to calculate the tip
 3) Choose in how many people you are going to split the bill
 4) Checkout the Total per persone amount get calculated live
 
-![image](https://user-images.githubusercontent.com/109081005/187034806-de2dcba8-ed59-4e45-bf35-95f55a769a14.png)
-![image](https://user-images.githubusercontent.com/109081005/187034824-903a270d-6324-4952-8854-7828bd8e18d5.png)
+![image](https://user-images.githubusercontent.com/109081005/187036418-68f8c8b1-17dc-4e05-80da-6046fac41677.png)
+
