@@ -1,0 +1,114 @@
+* {
+    font-family: 'M PLUS Rounded 1c', Avenir Next, Helvetica, sans-serif;
+    color: white;
+  }
+  
+  body {
+    /* background: #8990ec; */
+    height: 100%;
+    width: 100%;
+    background-color: #8BC6EC;
+    /* background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%); */
+    
+  }
+  
+  .wrapper {
+    height: 520px;
+    width: 400px;
+    color: white;
+    /* background: #262c394f; */
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #5c418833 0%, #97dae18c 100%);
+    border: #ffffff solid 1px;
+    border-radius: 1rem;
+    padding: 1.2rem;
+    margin: 50px auto;
+  }
+  
+  #topContainer {
+    margin-top: 4rem;
+  }
+  
+  .container {
+    margin-top: 1.4rem;
+  }
+  
+  .title, .text {
+    font-weight: bold;
+    margin-bottom: 0.6rem;
+  }
+  
+  .inputContainer {
+    /* background: #353959; */
+    background-image: linear-gradient(to right, #614385 0%, #516395  51%, #614385  100%);
+    border-radius: 1.4rem;
+    padding: 0 0.8rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  #billTotalInput,
+  #tipInput {
+    font-size: 1.2rem;
+    background: none;
+    border: none;
+    outline: none;
+    padding: none;
+  }
+  
+  .buttonContainer {
+    /* background: #8990ec27; */
+    background-image: linear-gradient(to right, #614385 0%, #516395  51%, #614385  100%);
+    display: grid;
+    place-items: center;
+    width: 1.6rem;
+    height: 1.6rem;
+    border-radius: 50%;
+    
+  }
+  
+  .splitButton {
+    background: none;
+    border: none;
+  }
+  
+  .controls {
+    display: flex;
+    align-items: center;
+  }
+  
+  .splitButton {
+    font-size: 0.8rem;
+    font-weight: bold;
+    display: grid;
+    place-items: center;
+  }
+  
+  .buttonText {
+    /* color: #353959 !important; */
+    color: #ffffff;
+  }
+  
+  .splitAmount {
+    font-size: 1.6rem;
+    margin: 0.8rem;
+  }
+  
+  #bottom {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .totalContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+  
+  .total {
+    font-size: 2rem;
+  }
+
+  ::placeholder{
+    color: #ffffff63;
+  }
